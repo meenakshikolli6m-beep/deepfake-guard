@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Guard",
+  "description": "A comprehensive educational platform and safety toolkit to protect users from deepfakes and cyber threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
